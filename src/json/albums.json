@@ -1,0 +1,36 @@
+[
+    {
+        "title": "One Piece",
+        "artist": "Luffy",
+        "image":"https://i.ytimg.com/vi/V3r-YGGsKpk/maxresdefault.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/61+QCVw12gL._UF1000,1000_QL80_.jpg"
+    },
+
+    {
+        "title": "See You Again",
+        "artist": "Paul",
+        "image":"https://www.pluggedin.com/wp-content/uploads/2020/01/Wiz-Khalifa-See-You-Again-large-1200x688.jpg",
+        "thumbnail_image": "https://lineimg.omusic.com.tw/img/album/2809080.jpg?v=20200912155301"
+    },
+
+    {
+        "title": "Perfect",
+        "artist": "ES",
+        "image":"https://i.ytimg.com/vi/jZjfDIG1WdI/maxresdefault.jpg",
+        "thumbnail_image": "https://i.kfs.io/album/global/23164614,4v1/fit/500x500.jpg"
+    },
+
+    {
+        "title": "Sing",
+        "artist": "ES",
+        "image":"https://i.ytimg.com/vi/scHS8YaYoRA/mqdefault.jpg",
+        "thumbnail_image": "https://media.gq.com/photos/5d28ae8d3691470008b21798/16:9/w_2560%2Cc_limit/What's-the-Point-of-Ed-Sheeran-G-2019-071219.jpg"
+    },
+
+    {
+        "title": "Dance Monkey",
+        "artist": "TSI",
+        "image":"https://miro.medium.com/v2/resize:fit:1400/1*lVPrJLiLd0YEwSgGHIqUiQ.png",
+        "thumbnail_image": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/2/5/0/22507d6d0f4143ab746bb2b1c463fa7f.jpg"
+    }
+]
